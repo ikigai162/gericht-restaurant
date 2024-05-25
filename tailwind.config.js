@@ -5,16 +5,19 @@ export default {
     extend: {
       colors: {
         gold: "#DCCA87",
-        pharagraph: 'AAAAAA',
+        pharagraph: "AAAAAA",
       },
 
       fontFamily: {
         montserrat: ["Montserrat", "sans-serif"],
         open: ["Open Sans", "sans-serif"],
-        cormorant: ['"Cormorant Upright"', "serif"],
+        cormorant: ["Cormorant Upright", "serif"],
       },
       screens: {
         wide: "1440px",
+      },
+      backgroundImage: {
+        gradientraidal: 'radial-gradient(var(--tw-gradient-stops))'
       },
     },
   },

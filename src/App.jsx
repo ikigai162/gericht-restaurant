@@ -4,7 +4,7 @@ import Hero from "./container/Hero";
 
 function App() {
   return (
-    <main className="">
+    <main className="bg-[#0C0B08] h-screen">
       <Navbar />
       <section className="">
         <Hero />
