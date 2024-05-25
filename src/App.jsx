@@ -6,7 +6,7 @@ function App() {
   return (
     <main className="bg-[#0C0B08] h-screen">
       <Navbar />
-      <section className="">
+      <section className="bg-[#0C0B08]">
         <Hero />
       </section>
     </main>
